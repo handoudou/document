@@ -4,13 +4,13 @@
 
 # Summary
 
-* [说明文档](README.md)
-* [需要下载的软件](software.md)
+* [README](README.md)
+  * [项目学习](project.md)
+    * [reactNative](project/reactnative.md)
+    * [组件库搭建](project/component.md)
+    * [视频直播app](project/livehome.md)
+  * [搭建工作环境](environment.md)
 
-* reactnative
-
-* 组件库搭建
-* 视频直播
 * css学习
 * js学习
 * html学习

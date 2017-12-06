@@ -8,6 +8,7 @@
 * [需要下载的软件](software.md)
 
 * reactnative
+
 * 组件库搭建
 * 视频直播
 * css学习

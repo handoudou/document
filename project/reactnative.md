@@ -4,6 +4,8 @@
 
 下面架构跟随项目，具体项目具体修改使用。
 
+![](/assets/react native.003.jpeg)![](/assets/react native.004.jpeg)![](/assets/react native.005.jpeg)![](/assets/react native.006.jpeg)
+
 ## 项目开发
 
 ### 导航使用react-navigation
@@ -47,15 +49,11 @@
 
 只有demo，实际项目未使用
 
-
-
 ## 注意事项
 
 1. 图片资源需要@2x，@3x
 2. 使用RN提供组件或者自定义组件，注意两端兼容
 3. 注意事件注册和销毁
-
-
 
 
 

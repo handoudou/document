@@ -1,4 +1,11 @@
-# 这里是我的文档
+# 说明文档
 
-这里是平时记录的文档![](/assets/3-3-component-lifecycle.jpg)
+这里主要记录日常的技术记录
+
+# Summary
+
+* [说明文档](README.md)
+* [需要下载的软件](software.md)
+
+
 

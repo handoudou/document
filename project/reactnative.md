@@ -55,5 +55,13 @@
 2. 使用RN提供组件或者自定义组件，注意两端兼容
 3. 注意事件注册和销毁
 
+## 帮助说明
+
+* [react-native](http://reactnative.cn/docs/0.49/getting-started.html)
+
+* [reactnavigation](https://reactnavigation.org/)
+* [mobx](https://mobx.js.org/getting-started.html)    [mobx说明](http://cn.mobx.js.org/)
+* [prettier](https://prettier.io/)
+
 
 

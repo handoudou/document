@@ -8,8 +8,7 @@
 
 ## 开发模式
  - 组件库开发采用github+npm的形式进行开发。代码仓库托管到github，左右的相关依赖和各个组件开发完成后发布到npm，使用方使用npm安装使用
- - 仓库：[npm组件列表](https://www.npmjs.com/search?q=pcadmin)
-           [前端github仓库](https://github.com/ksc-fx)
+ - 仓库：[npm组件列表](https://www.npmjs.com/search?q=pcadmin)    [前端github仓库](https://github.com/ksc-fx)
 
 
 ## 开发规则
@@ -20,5 +19,4 @@
 
 
 ## 参考
-[https://buefy.github.io/](https://buefy.github.io/)
-[http://bulma.io/](http://bulma.io/)
+[https://buefy.github.io/](https://buefy.github.io/)    [http://bulma.io/](http://bulma.io/)

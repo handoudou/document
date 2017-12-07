@@ -2,9 +2,7 @@
 
 该项目用来支持APP H5, 移动端H5等公共模块。
 
-## 项目架构
-
-### 技术栈
+## 技术栈
 
 * 搭建nodeserver，采用[thinkjs](https://thinkjs.org/) 2.2.x版本
 
@@ -18,7 +16,20 @@
 
 * 统计使用百度统计和内部统计
 
-项目架构
+## 项目架构
 
-1：搭建nodeserver，采用[thinkjs](https://thinkjs.org/) 2.2.x版本。该模块主要作为前端的server层级，封装globalConfig
+### nginx
+
+根据访问域名获取App标识，转发到指定nodeserver端口。
+
+### nodeserver
+
+搭建nodeserver，采用[thinkjs](https://thinkjs.org/) 2.2.x架构
+
+* 该模块主要作为前端的server层级
+* 请求分发
+* 封装配置配置，登录等必须请求
+* 做多应用，多版本
+
+
 

@@ -12,7 +12,8 @@
 
 * 下载需要使用的软件：VScode    PS    sketch    sourceTree    charles
 
-* 安装日常使用软件QQ、微信、网易云音乐、有道词典、MPlayer、Magican
+* 安装日常使用软件QQ、微信、网易云音乐、MPlayer、Magican
+
 * ps：安装网站    [xclient](http://xclient.info/?_=cc9be0cb8eeba839d501c5ef633dc1d5)    [爱情守望者](https://www.waitsun.com/)
 
 

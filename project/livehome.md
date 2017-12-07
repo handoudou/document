@@ -16,6 +16,11 @@
 
 * 部分动画使用[animate.css](https://daneden.github.io/animate.css/)。部分大礼物动画使用[airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 
-* 
+
+
+
+
 1：搭建nodeserver，采用[thinkjs](https://thinkjs.org/) 2.2.x版本。该模块主要作为前端的server层级，封装globalConfig
+
+
 

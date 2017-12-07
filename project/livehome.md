@@ -12,9 +12,10 @@
 
 * 前端mvc使用[vue](https://cn.vuejs.org/v2/guide/)架构
 
-* 使用[vue router](https://router.vuejs.org/zh-cn/ "vue router")，[vue resource](https://github.com/pagekit/vue-resource) 
+* 使用[vue router](https://router.vuejs.org/zh-cn/ "vue router")，[vue resource](https://github.com/pagekit/vue-resource)
 
+* 部分动画使用[animate.css](https://daneden.github.io/animate.css/)。部分大礼物动画使用[airbnb/lottie-web](https://github.com/airbnb/lottie-web)
+
+* 
 1：搭建nodeserver，采用[thinkjs](https://thinkjs.org/) 2.2.x版本。该模块主要作为前端的server层级，封装globalConfig
-
-
 

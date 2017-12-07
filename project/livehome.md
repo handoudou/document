@@ -44,5 +44,7 @@
 
 根据package.json版本，将前端模块发布到nodeserver指定地址。
 
+![](/assets/livehome.jpg)![](/assets/livehome3.jpg)
 
+![](/assets/livehome2.jpg)
 

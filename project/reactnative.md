@@ -4,7 +4,17 @@
 
 下面架构跟随项目，具体项目具体修改使用。
 
-![](/assets/react native.003.jpeg)![](/assets/react native.004.jpeg)![](/assets/react native.005.jpeg)![](/assets/react native.006.jpeg)
+![](/assets/react native.004.jpeg)
+
+
+
+![](/assets/react native.004.jpeg)
+
+![](/assets/react native.004.jpeg)
+
+![](/assets/react native.004.jpeg)
+
+![](/assets/react native.004.jpeg)![](/assets/react native.005.jpeg)![](/assets/react native.006.jpeg)
 
 ## 项目开发
 
@@ -60,6 +70,7 @@
 * [react-native](http://reactnative.cn/docs/0.49/getting-started.html)
 
 * [reactnavigation](https://reactnavigation.org/)
+
 * [mobx](https://mobx.js.org/getting-started.html)    [mobx说明](http://cn.mobx.js.org/)
 * [prettier](https://prettier.io/)
 
